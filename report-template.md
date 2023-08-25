@@ -16,9 +16,7 @@ The primary purpose of this analysis was to evaluate the creditworthiness of pot
 **Data Insight:**
 The dataset, derived from a peer-to-peer lending company, consisted of historical lending data including personal financial metrics and loan outcomes. Our primary task was to predict the `loan_status` column, which categorizes loans as either "healthy" or "high-risk".
 
-`value_counts` of `loan_status`: 
-* Healthy Loans: XX,XXX (or X%)
-* High-Risk Loans: X,XXX (or X%)
+
 
 **Machine Learning Process:**
 1. Data Cleaning: Removed any null values and outliers.
@@ -38,8 +36,8 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     * Healthy Loans: 100%
     * High-Risk Loans: 85%
   * Recall: 
-    * Healthy Loans: XX%
-    * High-Risk Loans: XX%
+    * Healthy Loans: 99%
+    * High-Risk Loans: 85%
 
 
 * Machine Learning Model 2:
@@ -48,8 +46,8 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     * Healthy Loans: 100%
     * High-Risk Loans: 84%
   * Recall: 
-    * Healthy Loans: XX%
-    * High-Risk Loans: XX%
+    * Healthy Loans: 99%
+    * High-Risk Loans: 84%
 
 ## Summary
 
