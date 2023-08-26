@@ -57,7 +57,7 @@ weighted avg       0.99      0.99      0.99     19384
     * High-Risk Loans: 84%
   * Recall: 
     * Healthy Loans: 99%
-    * High-Risk Loans: 84%
+    * High-Risk Loans: 99%
 
               precision    recall  f1-score   support
 
