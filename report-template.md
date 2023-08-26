@@ -37,7 +37,17 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
     * High-Risk Loans: 85%
   * Recall: 
     * Healthy Loans: 99%
-    * High-Risk Loans: 85%
+    * High-Risk Loans: 91%
+
+                  precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00     18765
+           1       0.85      0.91      0.88       619
+
+    accuracy                           0.99     19384
+   macro avg       0.92      0.95      0.94     19384
+weighted avg       0.99      0.99      0.99     19384
+
 
 
 * Machine Learning Model 2:
@@ -48,6 +58,16 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
   * Recall: 
     * Healthy Loans: 99%
     * High-Risk Loans: 84%
+
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00     18765
+           1       0.84      0.99      0.91       619
+
+    accuracy                           0.99     19384
+   macro avg       0.92      0.99      0.95     19384
+weighted avg       0.99      0.99      0.99     19384
+
 
 ## Summary
 
